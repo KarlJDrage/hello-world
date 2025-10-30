@@ -1,0 +1,13 @@
+# Voice Note to ClickUp SOP - Python Dependencies
+
+# Core dependencies
+requests>=2.31.0
+
+# Optional: For web interface (uncomment if building UI)
+# fastapi>=0.104.0
+# uvicorn>=0.24.0
+# python-multipart>=0.0.6
+# streamlit>=1.28.0
+
+# Optional: For enhanced functionality
+# python-dotenv>=1.0.0  # For .env file support
